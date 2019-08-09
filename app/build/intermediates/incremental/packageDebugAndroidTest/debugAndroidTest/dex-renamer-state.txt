@@ -1,0 +1,4 @@
+#Thu Aug 08 20:58:30 CDT 2019
+base.0=E\:\\Desktop\\Ex_Files_Android_Espresso_Advanced\\Ex_Files_Android_Espresso_Advanced\\Exercise Files\\Ch01\\01_01\\Start\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
